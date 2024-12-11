@@ -5,6 +5,6 @@ document.addEventListener("DOMContentLoaded", () => {
     button.addEventListener("click", () => {
         title.textContent = "You clicked the button";
         title.style.color = "blue";
-        console.log("Button was clicked");
+        //console.log("Button was clicked");
     });
 });
